@@ -1,0 +1,15 @@
+go_id	name	definition	category
+GO:0140313	molecular sequestering activity	Binding to a specific molecule to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active.	N/A
+GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	Enables the synthesis of ATP from ADP and phosphate by the transfer of protons from one side of a membrane to the other by a rotational mechanism driven by a gradient according to the reaction: ADP + H2O + phosphate + H+(in) -> ATP + H+(out).	N/A
+GO:0003746	translation elongation factor activity	Functions in chain elongation during polypeptide synthesis at the ribosome.	N/A
+GO:0005200	structural constituent of cytoskeleton	The action of a molecule that contributes to the structural integrity of a cytoskeletal structure.	N/A
+GO:0005506	iron ion binding	Binding to an iron (Fe) ion.	N/A
+GO:0015252	proton channel activity	Enables the facilitated diffusion of a hydrogen ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.	N/A
+GO:0031625	ubiquitin protein ligase binding	Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.	N/A
+GO:0005550	pheromone binding	Binding to a pheromone, a substance, or characteristic mixture of substances, that is secreted and released by an organism and detected by a second organism of the same or a closely related species, in which it causes a specific reaction, such as a definite behavioral reaction or a developmental process.	N/A
+GO:0044389	ubiquitin-like protein ligase binding	Binding to a ubiquitin-like protein ligase, such as ubiquitin-ligase.	N/A
+GO:0099186	structural constituent of postsynapse	The action of a molecule that contributes to the structural integrity of a postsynapse.	N/A
+GO:0140104	molecular carrier activity	Directly binding to a specific ion or molecule and delivering it either to an acceptor molecule or to a specific location.	N/A
+GO:0098918	structural constituent of synapse	The action of a molecule that contributes to the structural integrity of a synapse.	N/A
+GO:0001530	lipopolysaccharide binding	Binding to a lipopolysaccharide.	N/A
+GO:0042277	peptide binding	Binding to a peptide, an organic compound comprising two or more amino acids linked by peptide bonds.	N/A

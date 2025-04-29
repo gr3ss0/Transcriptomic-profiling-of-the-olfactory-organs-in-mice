@@ -1,0 +1,18 @@
+go_id	name	definition	category
+GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	The transport of protons across a membrane and against an electrochemical gradient, using energy from a source such as ATP hydrolysis, light, or electron transport.	N/A
+GO:0006812	monoatomic cation transport	The directed movement of a monoatomic cation, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.	N/A
+GO:0098662	inorganic cation transmembrane transport	A process in which an inorganic cation is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.	N/A
+GO:0098655	monoatomic cation transmembrane transport	The process in which a monoatomic cation is transported across a membrane. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.	N/A
+GO:0006811	monoatomic ion transport	The directed movement of a monoatomic ion into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.	N/A
+GO:0009117	nucleotide metabolic process	The chemical reactions and pathways involving a nucleotide, a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the glycose moiety; may be mono-, di- or triphosphate; this definition includes cyclic nucleotides (nucleoside cyclic phosphates).	N/A
+GO:0098660	inorganic ion transmembrane transport	The process in which an inorganic ion is transported across a membrane.	N/A
+GO:0034220	monoatomic ion transmembrane transport	A process in which a monoatomic ion is transported across a membrane. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.	N/A
+GO:0072521	purine-containing compound metabolic process	The chemical reactions and pathways involving a purine-containing compound, i.e. any compound that contains purine or a formal derivative thereof.	N/A
+GO:0006753	nucleoside phosphate metabolic process	The chemical reactions and pathways involving any phosphorylated nucleoside.	N/A
+GO:1900228	regulation of single-species biofilm formation in or on host organism	Any process that modulates the frequency, rate or extent of single-species biofilm formation in or on host organism.	N/A
+GO:1900191	negative regulation of single-species biofilm formation	Any process that stops, prevents or reduces the frequency, rate or extent of single-species biofilm formation.	N/A
+GO:1900190	regulation of single-species biofilm formation	Any process that modulates the frequency, rate or extent of single-species biofilm formation.	N/A
+GO:0055086	nucleobase-containing small molecule metabolic process	The cellular chemical reactions and pathways involving a nucleobase-containing small molecule: a nucleobase, a nucleoside, or a nucleotide.	N/A
+GO:1901137	carbohydrate derivative biosynthetic process	The chemical reactions and pathways resulting in the formation of carbohydrate derivative.	N/A
+GO:0019637	organophosphate metabolic process	The chemical reactions and pathways involving organophosphates, any phosphate-containing organic compound.	N/A
+GO:0055085	transmembrane transport	The process in which a solute is transported across a lipid bilayer, from one side of a membrane to the other.	N/A

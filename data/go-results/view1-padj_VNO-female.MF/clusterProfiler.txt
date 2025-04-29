@@ -1,0 +1,12 @@
+go_id	name	definition	category
+GO:0008237	metallopeptidase activity	Catalysis of the hydrolysis of peptide bonds by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.	N/A
+GO:0030021	extracellular matrix structural constituent conferring compression resistance	A constituent of the extracellular matrix that enables the matrix to resist compressive forces; often a proteoglycan.	N/A
+GO:0004222	metalloendopeptidase activity	Catalysis of the hydrolysis of internal, alpha-peptide bonds in a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.	N/A
+GO:0050839	cell adhesion molecule binding	Binding to a cell adhesion molecule.	N/A
+GO:0005178	integrin binding	Binding to an integrin.	N/A
+GO:0001968	fibronectin binding	Binding to a fibronectin, a group of related adhesive glycoproteins of high molecular weight found on the surface of animal cells, connective tissue matrices, and in extracellular fluids.	N/A
+GO:0015144	carbohydrate transmembrane transporter activity	Enables the transfer of carbohydrate from one side of a membrane to the other.	N/A
+GO:0008235	metalloexopeptidase activity	Catalysis of the hydrolysis of a peptide bond not more than three residues from the N- or C-terminus of a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.	N/A
+GO:0005518	collagen binding	Binding to collagen, a group of fibrous proteins of very high tensile strength that form the main component of connective tissue in animals. Collagen is highly enriched in glycine (some regions are 33% glycine) and proline, occurring predominantly as 3-hydroxyproline (about 20%).	N/A
+GO:0046332	SMAD binding	Binding to a SMAD signaling protein.	N/A
+GO:0008238	exopeptidase activity	Catalysis of the hydrolysis of a peptide bond not more than three residues from the N- or C-terminus of a polypeptide chain, in a reaction that requires a free N-terminal amino group, C-terminal carboxyl group or both.	N/A

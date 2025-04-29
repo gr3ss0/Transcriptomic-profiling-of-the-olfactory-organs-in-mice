@@ -1,0 +1,5 @@
+go_id	name	definition	category
+GO:2000145	regulation of cell motility	Any process that modulates the frequency, rate or extent of cell motility.	N/A
+GO:0040012	regulation of locomotion	Any process that modulates the frequency, rate or extent of locomotion of a cell or organism.	N/A
+GO:0048870	cell motility	Any process involved in the controlled self-propelled movement of a cell that results in translocation of the cell from one place to another.	N/A
+GO:0001944	vasculature development	The process whose specific outcome is the progression of the vasculature over time, from its formation to the mature structure. The vasculature is an interconnected tubular multi-tissue structure that contains fluid that is actively transported around the organism.	N/A

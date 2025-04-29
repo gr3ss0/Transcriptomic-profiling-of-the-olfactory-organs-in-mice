@@ -1,0 +1,7 @@
+go_id	name	definition	category
+GO:0016491	oxidoreductase activity	Catalysis of an oxidation-reduction (redox) reaction, a reversible chemical reaction in which the oxidation state of an atom or atoms within a molecule is altered. One substrate acts as a hydrogen or electron donor and becomes oxidized, while the other acts as hydrogen or electron acceptor and becomes reduced.	N/A
+GO:0005198	structural molecule activity	The action of a molecule that contributes to the structural integrity of a complex.	N/A
+GO:0004129	cytochrome-c oxidase activity	Catalysis of the reaction: 4 ferrocytochrome c + O2 + 4 H+ = 4 ferricytochrome c + 2 H2O.	N/A
+GO:0005549	odorant binding	Binding to an odorant, any substance capable of stimulating the sense of smell.	N/A
+GO:0022857	transmembrane transporter activity	Enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.	N/A
+GO:0098973	structural constituent of postsynaptic actin cytoskeleton	The action of a molecule that contributes to the structural integrity of a postsynaptic actin cytoskeleton.	N/A

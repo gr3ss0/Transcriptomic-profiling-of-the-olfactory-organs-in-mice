@@ -1,0 +1,7 @@
+go_id	name	definition	category
+GO:1901566	obsolete organonitrogen compound biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of organonitrogen compound.	N/A
+GO:0044271	obsolete cellular nitrogen compound biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of organic and inorganic nitrogenous compounds.	N/A
+GO:0006518	peptide metabolic process	The chemical reactions and pathways involving peptides, compounds of two or more amino acids where the alpha carboxyl group of one is bound to the alpha amino group of another.	N/A
+GO:1901576	obsolete organic substance biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of an organic substance, any molecular entity containing carbon.	N/A
+GO:0044249	obsolete cellular biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of substances, carried out by individual cells.	N/A
+GO:0034645	obsolete cellular macromolecule biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of a macromolecule, any molecule of high relative molecular mass, the structure of which essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass, carried out by individual cells.	N/A

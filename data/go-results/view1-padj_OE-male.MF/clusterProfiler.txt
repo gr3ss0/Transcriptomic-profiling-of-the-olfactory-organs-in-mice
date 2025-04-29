@@ -1,0 +1,21 @@
+go_id	name	definition	category
+GO:0141052	histone H3 demethylase activity	Catalysis of the removal of a methyl group from a modified lysine residue of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.	N/A
+GO:0032452	histone demethylase activity	Catalysis of the removal of a methyl group from a histone.	N/A
+GO:0140457	protein demethylase activity	Catalysis of the removal of a methyl group from a protein.	N/A
+GO:0032451	demethylase activity	Catalysis of the removal of a methyl group from a substrate.	N/A
+GO:0016706	2-oxoglutarate-dependent dioxygenase activity	Catalysis of the reaction: A + 2-oxoglutarate + O2 = B + succinate + CO2. This is an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from 2-oxoglutarate and one other donor, and one atom of oxygen is incorporated into each donor.	N/A
+GO:0051213	dioxygenase activity	Catalysis of an oxidation-reduction (redox) reaction in which both atoms of oxygen from one molecule of O2 are incorporated into the (reduced) product(s) of the reaction. The two atoms of oxygen may be distributed between two different products.	N/A
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Catalysis of an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from each of two donors, and molecular oxygen is reduced or incorporated into a donor.	N/A
+GO:0051864	histone H3K36 demethylase activity	Catalysis of the removal of a methyl group from a modified lysine residue at position 36 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.	N/A
+GO:0140993	histone modifying activity	A catalytic activity that acts on a histone protein. Reversible histone modifications contribute to regulation of gene expression.	N/A
+GO:0050681	nuclear androgen receptor binding	Binding to a nuclear androgen receptor.	N/A
+GO:0003743	translation initiation factor activity	Functions in the initiation of ribosome-mediated translation of mRNA into a polypeptide.	N/A
+GO:0003724	RNA helicase activity	Unwinding of an RNA helix, driven by ATP hydrolysis.	N/A
+GO:0008186	ATP-dependent activity, acting on RNA	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction requires the presence of RNA, and it drives another reaction.	N/A
+GO:0000049	tRNA binding	Binding to a transfer RNA.	N/A
+GO:0008135	translation factor activity, RNA binding	Functions during translation by binding to RNA during polypeptide synthesis at the ribosome.	N/A
+GO:0090079	obsolete translation regulator activity, nucleic acid binding	OBSOLETE. Any selective and non-covalent interaction with a nucleic acid involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome.	N/A
+GO:0031490	chromatin DNA binding	Binding to DNA that is assembled into chromatin.	N/A
+GO:0045182	translation regulator activity	Any molecular function involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome.	N/A
+GO:0004386	helicase activity	Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix.	N/A
+GO:0016922	nuclear receptor binding	Binding to a nuclear receptor protein. Nuclear receptor proteins are DNA-binding transcription factors which are regulated by binding to a ligand.	N/A

@@ -1,0 +1,6 @@
+go_id	name	definition	category
+GO:0022890	inorganic cation transmembrane transporter activity	Enables the transfer of inorganic cations from one side of a membrane to the other. Inorganic cations are atoms or small molecules with a positive charge that do not contain carbon in covalent linkage.	N/A
+GO:0008324	monoatomic cation transmembrane transporter activity	Enables the transfer of cation from one side of a membrane to the other.	N/A
+GO:0016675	oxidoreductase activity, acting on a heme group of donors	Catalysis of an oxidation-reduction (redox) reaction in which a heme group acts as a hydrogen or electron donor and reduces a hydrogen or electron acceptor.	N/A
+GO:0015318	inorganic molecular entity transmembrane transporter activity	Enables the transfer of an inorganic molecular entity from the outside of a cell to the inside of the cell across a membrane. An inorganic molecular entity is a molecular entity that contains no carbon.	N/A
+GO:0015075	monoatomic ion transmembrane transporter activity	Enables the transfer of an ion from one side of a membrane to the other.	N/A

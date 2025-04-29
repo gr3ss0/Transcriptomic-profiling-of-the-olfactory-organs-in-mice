@@ -1,0 +1,6 @@
+go_id	name	definition	category
+GO:0001501	skeletal system development	The process whose specific outcome is the progression of the skeleton over time, from its formation to the mature structure. The skeleton is the bony framework of the body in vertebrates (endoskeleton) or the hard outer envelope of insects (exoskeleton or dermoskeleton).	N/A
+GO:0071288	cellular response to mercury ion	Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mercury ion stimulus.	N/A
+GO:0001568	blood vessel development	The process whose specific outcome is the progression of a blood vessel over time, from its formation to the mature structure. The blood vessel is the vasculature carrying blood.	N/A
+GO:0016477	cell migration	The controlled self-propelled movement of a cell from one site to a destination guided by molecular cues.	N/A
+GO:0030334	regulation of cell migration	Any process that modulates the frequency, rate or extent of cell migration.	N/A

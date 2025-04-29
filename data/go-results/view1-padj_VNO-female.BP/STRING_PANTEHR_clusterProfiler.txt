@@ -1,0 +1,5 @@
+go_id	name	definition	category
+GO:0035987	endodermal cell differentiation	The process in which a relatively unspecialized cell acquires the specialized features of an endoderm cell, a cell of the inner of the three germ layers of the embryo.	N/A
+GO:0030198	extracellular matrix organization	A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of an extracellular matrix.	N/A
+GO:0030574	collagen catabolic process	The proteolytic chemical reactions and pathways resulting in the breakdown of collagen in the extracellular matrix, usually carried out by proteases secreted by nearby cells.	N/A
+GO:0008347	glial cell migration	The orderly movement of a glial cell, non-neuronal cells that provide support and nutrition, maintain homeostasis, form myelin, and participate in signal transmission in the nervous system.	N/A

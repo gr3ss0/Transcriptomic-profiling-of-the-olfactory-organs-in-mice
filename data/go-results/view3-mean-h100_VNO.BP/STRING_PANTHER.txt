@@ -1,0 +1,7 @@
+go_id	name	definition	category
+GO:0006091	generation of precursor metabolites and energy	The chemical reactions and pathways resulting in the formation of precursor metabolites, substances from which energy is derived, and any process involved in the liberation of energy from these substances.	N/A
+GO:0015990	electron transport coupled proton transport	The transport of protons against an electrochemical gradient, using energy from electron transport.	N/A
+GO:0006412	translation	The cellular metabolic process in which a protein is formed, using the sequence of a mature mRNA or circRNA molecule to specify the sequence of amino acids in a polypeptide chain. Translation is mediated by the ribosome, and begins with the formation of a ternary complex between aminoacylated initiator methionine tRNA, GTP, and initiation factor 2, which subsequently associates with the small subunit of the ribosome and an mRNA or circRNA. Translation ends with the release of a polypeptide chain from the ribosome.	N/A
+GO:0090407	organophosphate biosynthetic process	The chemical reactions and pathways resulting in the biosynthesis of deoxyribose phosphate, the phosphorylated sugar 2-deoxy-erythro-pentose.	N/A
+GO:1900229	negative regulation of single-species biofilm formation in or on host organism	Any process that stops, prevents or reduces the frequency, rate or extent of single-species biofilm formation in or on host organism.	N/A
+GO:0150111	regulation of transepithelial transport	Any process that modulates the frequency, rate or extent of transepithelial transport.	N/A

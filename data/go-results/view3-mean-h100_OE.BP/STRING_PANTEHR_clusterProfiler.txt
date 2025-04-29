@@ -1,0 +1,13 @@
+go_id	name	definition	category
+GO:0009060	aerobic respiration	The enzymatic release of energy from inorganic and organic compounds (especially carbohydrates and fats) which requires oxygen as the terminal electron acceptor.	N/A
+GO:0042773	ATP synthesis coupled electron transport	The transfer of electrons through a series of electron donors and acceptors, generating energy that is ultimately used for synthesis of ATP.	N/A
+GO:0006119	oxidative phosphorylation	The phosphorylation of ADP to ATP that accompanies the oxidation of a metabolite through the operation of the respiratory chain. Oxidation of compounds establishes a proton gradient across the membrane, providing the energy for ATP synthesis.	N/A
+GO:0019646	aerobic electron transport chain	A process in which a series of electron carriers operate together to transfer electrons from donors such as NADH and FADH2 to oxygen to generate a transmembrane electrochemical gradient.	N/A
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	The transfer of electrons through a series of electron donors and acceptors, generating energy that is ultimately used for synthesis of ATP, as it occurs in the mitochondrial inner membrane or chloroplast thylakoid membrane.	N/A
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis	The chemical reactions and pathways resulting in the formation of ATP driven by transport of protons across a mitochondrial membrane to generate an electrochemical gradient (proton-motive force).	N/A
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	The transfer of electrons from NADH to ubiquinone that occurs during oxidative phosphorylation.	N/A
+GO:1902600	proton transmembrane transport	The directed movement of a proton across a membrane.	N/A
+GO:0032981	mitochondrial respiratory chain complex I assembly	The aggregation, arrangement and bonding together of a set of components to form mitochondrial respiratory chain complex I.	N/A
+GO:0002181	cytoplasmic translation	The chemical reactions and pathways resulting in the formation of a protein in the cytoplasm. This is a ribosome-mediated process in which the information in messenger RNA (mRNA) is used to specify the sequence of amino acids in the protein.	N/A
+GO:0051055	negative regulation of lipid biosynthetic process	Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of lipids.	N/A
+GO:0045721	negative regulation of gluconeogenesis	Any process that stops, prevents, or reduces the frequency, rate or extent of gluconeogenesis.	N/A

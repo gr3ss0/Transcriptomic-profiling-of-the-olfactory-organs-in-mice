@@ -1,0 +1,3 @@
+go_id	name	definition	category
+GO:0018149	peptide cross-linking	The formation of a covalent cross-link between or within protein chains.	N/A
+GO:0030199	collagen fibril organization	Any process that determines the size and arrangement of collagen fibrils within an extracellular matrix.	N/A

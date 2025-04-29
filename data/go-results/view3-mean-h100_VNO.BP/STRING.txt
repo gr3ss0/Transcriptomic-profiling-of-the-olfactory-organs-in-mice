@@ -1,0 +1,4 @@
+go_id	name	definition	category
+GO:1901566	obsolete organonitrogen compound biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of organonitrogen compound.	N/A
+GO:0044271	obsolete cellular nitrogen compound biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of organic and inorganic nitrogenous compounds.	N/A
+GO:1901576	obsolete organic substance biosynthetic process	OBSOLETE. The chemical reactions and pathways resulting in the formation of an organic substance, any molecular entity containing carbon.	N/A

@@ -1,0 +1,6 @@
+go_id	name	definition	category
+GO:0141052	histone H3 demethylase activity	Catalysis of the removal of a methyl group from a modified lysine residue of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.	N/A
+GO:0032452	histone demethylase activity	Catalysis of the removal of a methyl group from a histone.	N/A
+GO:0140457	protein demethylase activity	Catalysis of the removal of a methyl group from a protein.	N/A
+GO:0032451	demethylase activity	Catalysis of the removal of a methyl group from a substrate.	N/A
+GO:0016706	2-oxoglutarate-dependent dioxygenase activity	Catalysis of the reaction: A + 2-oxoglutarate + O2 = B + succinate + CO2. This is an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from 2-oxoglutarate and one other donor, and one atom of oxygen is incorporated into each donor.	N/A

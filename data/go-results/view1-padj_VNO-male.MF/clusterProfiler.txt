@@ -1,0 +1,29 @@
+go_id	name	definition	category
+GO:0141052	histone H3 demethylase activity	Catalysis of the removal of a methyl group from a modified lysine residue of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.	N/A
+GO:0032452	histone demethylase activity	Catalysis of the removal of a methyl group from a histone.	N/A
+GO:0140457	protein demethylase activity	Catalysis of the removal of a methyl group from a protein.	N/A
+GO:0032451	demethylase activity	Catalysis of the removal of a methyl group from a substrate.	N/A
+GO:0016706	2-oxoglutarate-dependent dioxygenase activity	Catalysis of the reaction: A + 2-oxoglutarate + O2 = B + succinate + CO2. This is an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from 2-oxoglutarate and one other donor, and one atom of oxygen is incorporated into each donor.	N/A
+GO:0038024	cargo receptor activity	Binding specifically to a substance (cargo) to deliver it to a transport vesicle. Cargo receptors span membranes (for instance the plasma membrane or the endoplasmic reticulum membrane), binding simultaneously to cargo molecules and coat adaptors, to efficiently recruit the cargo molecules to nascent vesicles.	N/A
+GO:0051213	dioxygenase activity	Catalysis of an oxidation-reduction (redox) reaction in which both atoms of oxygen from one molecule of O2 are incorporated into the (reduced) product(s) of the reaction. The two atoms of oxygen may be distributed between two different products.	N/A
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Catalysis of an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from each of two donors, and molecular oxygen is reduced or incorporated into a donor.	N/A
+GO:0005041	low-density lipoprotein particle receptor activity	Combining with a low-density lipoprotein particle and delivering the low-density lipoprotein particle into the cell via endocytosis.	N/A
+GO:0008035	high-density lipoprotein particle binding	Binding to high-density lipoprotein particle, a lipoprotein particle with a high density (typically 1.063-1.21 g/ml) and a diameter of 5-10 nm that contains APOAs and may contain APOCs and APOE.	N/A
+GO:0051864	histone H3K36 demethylase activity	Catalysis of the removal of a methyl group from a modified lysine residue at position 36 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.	N/A
+GO:0030228	lipoprotein particle receptor activity	Combining with a lipoprotein particle and delivering the lipoprotein particle into the cell via endocytosis. A lipoprotein particle, also known as a lipoprotein, is a clathrate complex consisting of a lipid enwrapped in a protein host without covalent binding in such a way that the complex has a hydrophilic outer surface consisting of all the protein and the polar ends of any phospholipids.	N/A
+GO:0034185	apolipoprotein binding	Binding to an apolipoprotein, the protein component of a lipoprotein complex.	N/A
+GO:0140993	histone modifying activity	A catalytic activity that acts on a histone protein. Reversible histone modifications contribute to regulation of gene expression.	N/A
+GO:0030247	polysaccharide binding	Binding to a polysaccharide, a polymer of many (typically more than 10) monosaccharide residues linked glycosidically.	N/A
+GO:0071813	lipoprotein particle binding	Binding to a lipoprotein particle. A lipoprotein particle, also known as a lipoprotein, is a clathrate complex consisting of a lipid enwrapped in a protein host without covalent binding in such a way that the complex has a hydrophilic outer surface consisting of all the protein and the polar ends of any phospholipids.	N/A
+GO:0071814	protein-lipid complex binding	Binding to a protein-lipid complex, any macromolecular complex that contains both protein and lipid molecules.	N/A
+GO:0050681	nuclear androgen receptor binding	Binding to a nuclear androgen receptor.	N/A
+GO:0140693	molecular condensate scaffold activity	Binding and bringing together two or more macromolecules in contact, permitting those molecules to organize as a molecular condensate.	N/A
+GO:0019894	kinesin binding	Interacting selectively and non-covalently and stoichiometrically with kinesin, a member of a superfamily of microtubule-based motor proteins that perform force-generating tasks such as organelle transport and chromosome segregation.	N/A
+GO:0003743	translation initiation factor activity	Functions in the initiation of ribosome-mediated translation of mRNA into a polypeptide.	N/A
+GO:0003724	RNA helicase activity	Unwinding of an RNA helix, driven by ATP hydrolysis.	N/A
+GO:0001540	amyloid-beta binding	Binding to an amyloid-beta peptide/protein.	N/A
+GO:0008186	ATP-dependent activity, acting on RNA	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction requires the presence of RNA, and it drives another reaction.	N/A
+GO:0000049	tRNA binding	Binding to a transfer RNA.	N/A
+GO:0008135	translation factor activity, RNA binding	Functions during translation by binding to RNA during polypeptide synthesis at the ribosome.	N/A
+GO:0048306	calcium-dependent protein binding	Binding to a protein or protein complex in the presence of calcium.	N/A
+GO:0090079	obsolete translation regulator activity, nucleic acid binding	OBSOLETE. Any selective and non-covalent interaction with a nucleic acid involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome.	N/A

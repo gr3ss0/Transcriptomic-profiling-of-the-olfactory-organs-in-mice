@@ -1,0 +1,10 @@
+go_id	name	definition	category
+GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	Enables the synthesis of ATP from ADP and phosphate by the transfer of protons from one side of a membrane to the other by a rotational mechanism driven by a gradient according to the reaction: ADP + H2O + phosphate + H+(in) -> ATP + H+(out).	N/A
+GO:0003746	translation elongation factor activity	Functions in chain elongation during polypeptide synthesis at the ribosome.	N/A
+GO:0020037	heme binding	Binding to a heme, a compound composed of iron complexed in a porphyrin (tetrapyrrole) ring.	N/A
+GO:0046906	tetrapyrrole binding	Binding to a tetrapyrrole, a compound containing four pyrrole nuclei variously substituted and linked to each other through carbons at the alpha position.	N/A
+GO:0048156	tau protein binding	Binding to tau protein. tau is a microtubule-associated protein, implicated in Alzheimer's disease, Down Syndrome and ALS.	N/A
+GO:0016209	antioxidant activity	Inhibition of the reactions brought about by dioxygen (O2) or peroxides. Usually the antioxidant is effective because it can itself be more easily oxidized than the substance protected. The term is often applied to components that can trap free radicals, thereby breaking the chain reaction that normally leads to extensive biological damage.	N/A
+GO:0015252	proton channel activity	Enables the facilitated diffusion of a hydrogen ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.	N/A
+GO:0016500	protein-hormone receptor activity	Combining with a protein hormone to initiate a change in cell activity.	N/A
+GO:0005550	pheromone binding	Binding to a pheromone, a substance, or characteristic mixture of substances, that is secreted and released by an organism and detected by a second organism of the same or a closely related species, in which it causes a specific reaction, such as a definite behavioral reaction or a developmental process.	N/A

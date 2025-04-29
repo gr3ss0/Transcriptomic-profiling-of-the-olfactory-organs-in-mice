@@ -1,0 +1,16 @@
+go_id	name	definition	category
+GO:0034987	immunoglobulin receptor binding	Binding to one or more specific sites on an immunoglobulin receptor molecule.	N/A
+GO:0003743	translation initiation factor activity	Functions in the initiation of ribosome-mediated translation of mRNA into a polypeptide.	N/A
+GO:0005080	protein kinase C binding	Binding to protein kinase C.	N/A
+GO:0015459	potassium channel regulator activity	Binds to and modulates the activity of a potassium channel.	N/A
+GO:0000049	tRNA binding	Binding to a transfer RNA.	N/A
+GO:0046332	SMAD binding	Binding to a SMAD signaling protein.	N/A
+GO:0008135	translation factor activity, RNA binding	Functions during translation by binding to RNA during polypeptide synthesis at the ribosome.	N/A
+GO:0090079	obsolete translation regulator activity, nucleic acid binding	OBSOLETE. Any selective and non-covalent interaction with a nucleic acid involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome.	N/A
+GO:0045182	translation regulator activity	Any molecular function involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome.	N/A
+GO:0099106	ion channel regulator activity	Modulates the activity of a channel via direct interaction with it. A channel catalyzes energy-independent facilitated diffusion, mediated by passage of a solute through a transmembrane aqueous pore or channel.	N/A
+GO:0016247	channel regulator activity	Binds to and modulates the activity of a channel. A channel catalyzes energy-independent facilitated diffusion, mediated by passage of a solute through a transmembrane aqueous pore or channel.	N/A
+GO:0141108	transporter regulator activity	Binds to and modulates the activity of a transporter.	N/A
+GO:0044325	transmembrane transporter binding	Binding to a transmembrane transporter, a protein or protein complex that enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.	N/A
+GO:0043021	ribonucleoprotein complex binding	Binding to a complex of RNA and protein.	N/A
+GO:0051015	actin filament binding	Binding to an actin filament, also known as F-actin, a helical filamentous polymer of globular G-actin subunits.	N/A

@@ -1,0 +1,2 @@
+go_id	name	definition	category
+GO:0036094	small molecule binding	Binding to a small molecule, any low molecular weight, monomeric, non-encoded molecule.	N/A
