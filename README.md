@@ -1,2 +1,15 @@
 # Transcriptomic-profiling-of-the-olfactory-organs-in-mice
 Bachelor thesis in Bioinformatics
+
+This repo contains main scripts used in data analysis in my bachelor thesis. However, this repo is not self-sufficient and only complements metodology and code snippets described in thesis. Among scripts are extraction and remapping of old fragments; API requests for STRING, PANTHER and clusterProfiler; DESeq2 analysis and FPKM normalization.
+
+In `data/` list of input gene for each view is to be found. View were filtered from `data/deseq-results/` by constraints:
+1. View1: padj < 0.1;
+2. View2: abs(LFC) > 2 && pval < 0.05;
+3. View3: tom 100 form sorted by FPKM
+
+In `data/go-results`, all experiments are listed, BP - biological process and MF - molecular function. Each experiment contains `venn_summary.xls` table summarizing counts and ids of hits in particular Venn diagram regions. Additionally, for each non-empty region a coressponding `.txt` file exists with full name and description of the terms.
+
+Finally `data/fpkm-results/` contains Ensemble id, name and *fragment per kilobase per millions* normalized expression level. This can be easily reproduced by `scripts/fpkm-routine.ipynb`.
+
+Further questions refer to: gressm@natur.cuni.cz
